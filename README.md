@@ -1,2 +1,3 @@
 # 20_news_group
-Practice machine learning project using sample dataset of sklearn called as 20newsgroup
+
+This is a practice machine learning project based on practice dataset from sklearn called as "20newsgroup"
